@@ -647,10 +647,6 @@ footer li {
     grid-template-columns: repeat(2, 1fr);
     align-items: baseline;
   }
-  .section {
-    padding-left: 30px;
-    padding-right: 30px;
-  }
 }
 @media (max-width:490px) {
   #menuClose{
